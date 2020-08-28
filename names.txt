@@ -2,4 +2,3 @@ yash
 vandit
 dipu
 kshitig
-shreyam
